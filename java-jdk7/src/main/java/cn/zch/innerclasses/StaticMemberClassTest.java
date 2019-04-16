@@ -5,6 +5,8 @@ import java.util.Arrays;
 /**
 * 静态成员类
 * 
+* String类的CaseInsensitiveComparator比较器，该静态成员类提供了String类型忽略字符大小写的比较方法。
+* 
 * @author zch
 */
 public class StaticMemberClassTest {
